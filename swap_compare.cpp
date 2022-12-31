@@ -1,4 +1,4 @@
-C_swap(&x,&y);
+c_swap(&x,&y);
 void c_swap(int *a,int *b){
   int tmp = *a;
   *a = *b;
